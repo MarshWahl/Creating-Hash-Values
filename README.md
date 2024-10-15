@@ -1,7 +1,7 @@
 # Creating-Hash-Values
 
 ## Scenario
-Create Hash values of two separate files that appear to contain similar data to determine if they are identical.
+In Linux, create Hash in values of two separate files that appear to contain similar data to determine if they are identical.
 
 ### Generate Hashes for Files
 First I will list the contents of the directory with the **ls** command. This outputs "file1.txt" and "file2.txt", these are the files I will be comparing.
